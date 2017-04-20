@@ -17,3 +17,5 @@ require('./plugins.js').registerPlugins(server, (err) => {
   require('./routes.js').registerRoutes(server);
   startServer();
 });
+
+//test text
